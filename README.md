@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzai786&show_icons=true&locale=en" alt="huzai786" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=huzai786&](https://checkmysite.netlify.app/)" alt="huzai786" /></p>
+<p><img align="center" src="https://checkmysite.netlify.app/" alt="huzai786" /></p>
