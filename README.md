@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/huzai786/profile/blob/master/name.svg" alt="Muhammad Huzaifa" />
+  <img src="https://github.com/huzai786/huzai786/blob/c2ac1c5af6b3873193afb456fcba84fb2de3125a/name.svg" alt="Muhammad Huzaifa" />
 </h1>
 
 
