@@ -13,7 +13,7 @@ https://huzai786.github.io
 - 👨‍💻 Python, C#
 - ⚙️ Django, FastAPI, Selenium, Tortoise ORM
 - 👁️ Data Extraction, Web Scraping, Scriping and Automation
-- 💽 Git, Docker, vscode, PythonAnyWhere
+- 💽 Git, Docker, Insomnia, PythonAnyWhere
 
 ## Contact
 - [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-a9697a1b7) on Linkdin
