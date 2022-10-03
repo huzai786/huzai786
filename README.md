@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm huzaifa, a 19 years old self-taught python developer.
+I'm Muhammad huzaifa, a 19 years old self-taught python developer.
 
 ## PortFolio Site
 https://huzai786.github.io
