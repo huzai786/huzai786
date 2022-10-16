@@ -10,8 +10,8 @@ I'm Muhammad huzaifa, a 19 years old self-taught python developer.
 https://huzai786.github.io
 
 ## Skills
-- 👨‍💻 Python, C#
-- ⚙️ Django, FastAPI, Selenium, Tortoise ORM
+- 👨‍💻 Python, C#, C, Rust
+- ⚙️ Scrapy, FastAPI, Selenium, Sqlmodel 
 - 👁️ Data Extraction, Web Scraping, Scriping and Automation
 - 💽 Git, Docker, Insomnia, PythonAnyWhere
 
