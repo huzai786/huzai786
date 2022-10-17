@@ -4,13 +4,13 @@
 
 
 ## Hey! 👋
-I'm Muhammad huzaifa, a 19 years old self-taught python developer.
+I'm Muhammad huzaifa, a 19 years old self-taught python developer (intermediate).
 
 ## PortFolio Site
 https://huzai786.github.io
 
 ## Skills
-- 👨‍💻 Python, C#, C, Rust
+- 👨‍💻 Python, learning(C#, C, Rust)
 - ⚙️ Scrapy, FastAPI, Selenium, Sqlmodel 
 - 👁️ Data Extraction, Web Scraping, Scriping and Automation
 - 💽 Git, Docker, Insomnia, PythonAnyWhere
