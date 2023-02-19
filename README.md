@@ -4,10 +4,7 @@
 
 
 ## Hey! 👋
-I'm Muhammad huzaifa, a 19 years old self-taught python developer (intermediate).
-
-## PortFolio Site
-https://huzai786.github.io
+I'm Muhammad huzaifa, and khabib is the best ufc fighter.
 
 ## Skills
 - 👨‍💻 Python, learning(C#, C, Rust)
